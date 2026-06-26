@@ -1,0 +1,6 @@
+{
+    "raw_data_path": "/opt/airflow/data/raw",
+    "batch_size": "5000",
+    "timezone": "UTC",
+    "environment": "development"
+}

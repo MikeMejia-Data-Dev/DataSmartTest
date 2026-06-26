@@ -1,0 +1,17 @@
+.env
+
+.csv    
+
+logs/
+
+__pycache__/
+
+*.pyc
+
+*.pyo
+
+*.pyd
+
+.venv/
+
+.env.local
